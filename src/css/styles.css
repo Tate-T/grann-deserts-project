@@ -8,5 +8,15 @@
 @import url('./header.css');
 @import url('./footer.css');
 @import url('./main-page/hero.css');
+@import url('./repetitive/deserts.css');
+@import url('./repetitive/bestsellers.css');
+@import url('./main-page/whygrann.css');
+@import url('./main-page/picture.css');
+@import url('./repetitive/delivery.css');
+@import url('./repetitive/about-me.css');
+@import url('./repetitive/form.css');
+@import url('./repetitive/questions.css');
+@import url('./repetitive/instagram.css');
+
 
 
