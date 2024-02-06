@@ -1,0 +1,62 @@
+.info-container {
+    display: flex;
+}
+.delivery-payment {
+  padding-bottom: 120px;
+
+}
+
+.payment {
+  color: var(--text-color);
+  text-align: center;
+  font-size: 100px;
+  font-weight: 900;
+  font-family: Moniqa;
+}
+
+.info-list {
+  display: flex;
+  gap: 83px;
+}
+.info-item {
+  outline: solid blue;
+}
+
+.delivery-image {
+  margin-top: 84px;
+  margin-bottom: 38px;
+  padding-left: 106.37px;
+  padding-right: 106.37;
+  
+}
+.delivery-image {
+  margin-top: 84px;
+  margin-bottom: 39px;
+  padding-left: 93.01px;
+  padding-right: 93.01px;
+  
+}
+.delivery-image {
+  margin-top: 73.98px;
+  margin-bottom: 29.98px;
+  padding-left: 104.01px;
+  padding-right: 104.01px;
+ 
+}
+
+.info-title {
+  color: var(--text-color);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29px;
+  text-align: center;
+}
+.info-text {
+  color: var(--text-color);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 22px;
+  text-align: center;
+}
