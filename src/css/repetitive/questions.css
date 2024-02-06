@@ -1,4 +1,7 @@
-
+.faq {
+  padding-bottom: 89.5px;
+  padding-top: 120px;
+}
 
 .faq-container {
   display: flex;
@@ -7,7 +10,7 @@
 }
 
 .faq-title {
-  font-family: var(--third-family);
+  font-family: "Moniqa Display";
   font-weight: 900;
   font-size: 100px;
   color: var(--text-color);
@@ -15,34 +18,34 @@
   text-align: center;
 }
 
-.faq-item {
+.faq-list {
+  padding-left: 106px;
+}
+
+.faq-item { 
   display: flex;
-  width: 828px;
-  height: 53px;
-  border-bottom: 1px solid #705a66;
+  width: 1028px;
+  border-bottom: 1px solid var(--text-color);
   margin-bottom: 56px;
+  justify-content: space-between;
 }
 
 .faq-item:first-child {
-  width: 828px;
-  height: 53px;
-  border-bottom: 1px solid #705a66;
-  margin-bottom: 24px;
+  border-bottom: 1px solid var(--text-color);
+  margin-bottom: 16.5px;
 }
 
 .faq-item:last-child {
-  width: 828px;
-  height: 53px;
-  border-bottom: 1px solid #705a66;
+  border-bottom: 1px solid var(--text-color);
   margin-bottom: 0px;
-}
+} 
 
 .faq-subtitle {
-  font-family: var(--font-family);
+  font-family: "Montserrat";
   font-weight: 300;
   font-size: 24px;
   text-transform: uppercase;
-  color: #705a66;
+  color: var(--text-color);
   margin-bottom: 24px;
 }
 
@@ -54,6 +57,10 @@
   color: var(--text-color);
   font-weight: 300;
   font-size: 18px;
-  color: #705a66;
   margin-top: 16px;
 }
+
+.faq-bracket {
+  cursor: pointer
+}
+
