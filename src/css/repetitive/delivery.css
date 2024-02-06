@@ -1,9 +1,8 @@
 .info-container {
-    display: flex;
+  display: flex;
 }
 .delivery-payment {
   padding-bottom: 120px;
-
 }
 
 .payment {
@@ -27,21 +26,18 @@
   margin-bottom: 38px;
   padding-left: 106.37px;
   padding-right: 106.37;
-  
 }
 .delivery-image {
   margin-top: 84px;
   margin-bottom: 39px;
   padding-left: 93.01px;
   padding-right: 93.01px;
-  
 }
 .delivery-image {
   margin-top: 73.98px;
   margin-bottom: 29.98px;
   padding-left: 104.01px;
   padding-right: 104.01px;
- 
 }
 
 .info-title {
