@@ -1,10 +1,4 @@
-.container {
-  /* outline: solid red; */
-  width: 1240px;
-  margin: 0 auto;
-  padding-left: 206px;
-  padding-right: 206px;
-}
+
 
 .faq-container {
   display: flex;
