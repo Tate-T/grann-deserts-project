@@ -1,0 +1,48 @@
+.hero {
+    padding-top: 35.5px;
+    padding-bottom: 232px;
+    background-image: url('../../img/main-page/1main/vector-heromain.jpg'),
+     url('../../img/main-page/1main/whisk.webp'),
+     url('../../img/main-page/1main/choux-shu.webp')
+     url('../../img/main-page/1main/mousse-cakes.webp'),
+     url('../../img/main-page/1main/delicious-tarts.webp');
+    /* background-position-y: 565px; */
+    /* background-repeat: no-repeat */
+}
+
+.hero-title {
+    font-weight: 900;
+    font-size: 100px;
+    color: var(--text-color);
+    text-align: center;
+    font-family: "Moniqa Black";
+    margin-bottom: 477px;
+}
+
+.hero-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20.6px;
+    padding-top: 16px
+}
+
+.hero-article {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 300;
+    color: var(--text-color);
+}
+
+.hero-div {
+    display: flex;
+    justify-content: flex-end;
+    gap: 82.5px;
+}
+
+
+
+
+
+
+
+
