@@ -1,9 +1,8 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  margin-right: auto;
-  margin-left: auto;
 }
+
 .whygrann {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -12,7 +11,7 @@
 .about-grann {
   height: 104px;
   color: var(--text-color);
-  font-family: Moniqa;
+  font-family: "Moniqa Display";
   font-size: 100px;
   font-weight: 900;
   margin-right: auto;
@@ -25,7 +24,7 @@
   height: 631.34px;
   display: block;
   margin-right: 136px;
-  background-image: url(../../img/about-page/why/grannwithlove.webp);
+  background-image: url('../../img/about-page/why/grannwithlove.webp');
   background-repeat: no-repeat;
 }
 .grann-description {
