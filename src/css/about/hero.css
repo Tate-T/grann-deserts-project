@@ -3,37 +3,14 @@
   padding-bottom: 120px;
   background-image: url(../../img/about-page/main/cakes.webp);
   background-repeat: no-repeat;
- background-position: 0 241px;
-}
-/* 
-.container {
-  outline: solid red;
-  width: 1440px;
-  margin: 0 auto
-} */
-
-.container-hero {
-  width: 1131px;
-  height: 661px;
-  outline: solid red;
+  background-position: 210px 271px ;
 }
 
-/* .hero-list {
+.hero-div {
+  padding-left: 638px;
+  padding-right: 0;
   display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
-  margin-bottom: 425px;
-} */
-
-.hero-item {
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
-}
-
-.hero-items {
-  display: flex;
-  justify-content: flex-end;
+  flex-direction: column;
   align-items: flex-end;
 }
 
@@ -43,8 +20,7 @@
   font-size: 226px;
   font-weight: 900;
   line-height: 236px;
-  margin-right: 13px;
-  margin-bottom: 21px;
+  margin-bottom: 0px;
 }
 
 .hero-subtitle {
@@ -53,18 +29,14 @@
   font-size: 24px;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-  text-align: center;
-  color: #705a66;
-  margin-bottom: 5px;
+  color: var(--text-color);
 }
 
-.hero-image {
-  
-
-  display: block;
-  width: 831px;
-  height: 521px;
-  position: absolute;
+.hero-div-button {
+  padding-left: 523px;
+  padding-right: 214px;
+  margin-top: 218px;
+  padding-bottom: 140px;
 }
 
 .hero-button {
@@ -77,5 +49,4 @@
   font-weight: 300;
   letter-spacing: 0%;
   border: none;
-
 }
