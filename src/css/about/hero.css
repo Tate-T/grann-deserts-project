@@ -1,9 +1,12 @@
 .hero {
   padding-top: 101px;
   padding-bottom: 120px;
+}
+
+.container-hero {
   background-image: url(../../img/about-page/main/cakes.webp);
   background-repeat: no-repeat;
-  background-position: 210px 271px ;
+  background-position: 0 170px ;
 }
 
 .hero-div {
