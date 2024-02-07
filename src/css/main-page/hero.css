@@ -1,13 +1,10 @@
 .hero {
     padding-top: 35.5px;
-    padding-bottom: 232px;
-    background-image: url('../../img/main-page/1main/vector-heromain.jpg'),
-     url('../../img/main-page/1main/whisk.webp'),
-     url('../../img/main-page/1main/choux-shu.webp')
-     url('../../img/main-page/1main/mousse-cakes.webp'),
-     url('../../img/main-page/1main/delicious-tarts.webp');
-    /* background-position-y: 565px; */
-    /* background-repeat: no-repeat */
+    padding-bottom: 202px;
+    background-image: url('../../img/main-page/1main/whisk.webp'), url('../../img/main-page/1main/choux-shu.webp'), url('../../img/main-page/1main/mousse-cakes.webp'), url('../../img/main-page/1main/delicious-tarts.webp'), url('../../img/main-page/1main/vector-heromain.jpg');
+    background-position-y: 150px, 110px, 30px, 163px, -130px;
+    background-position-x: 50%, 18%, 0%, 92%, center;
+    background-repeat: no-repeat;
 }
 
 .hero-title {
