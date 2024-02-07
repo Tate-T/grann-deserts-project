@@ -1,0 +1,81 @@
+.hero {
+  padding-top: 101px;
+  padding-bottom: 120px;
+  background-image: url(../../img/about-page/main/cakes.webp);
+  background-repeat: no-repeat;
+ background-position: 0 241px;
+}
+/* 
+.container {
+  outline: solid red;
+  width: 1440px;
+  margin: 0 auto
+} */
+
+.container-hero {
+  width: 1131px;
+  height: 661px;
+  outline: solid red;
+}
+
+/* .hero-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-bottom: 425px;
+} */
+
+.hero-item {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.hero-items {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.hero-title {
+  color: var(--text-color);
+  font-family: 'Moniqa Display';
+  font-size: 226px;
+  font-weight: 900;
+  line-height: 236px;
+  margin-right: 13px;
+  margin-bottom: 21px;
+}
+
+.hero-subtitle {
+  font-family: var(--font-family);
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #705a66;
+  margin-bottom: 5px;
+}
+
+.hero-image {
+  
+
+  display: block;
+  width: 831px;
+  height: 521px;
+  position: absolute;
+}
+
+.hero-button {
+  border-radius: 10px;
+  background: rgb(245, 238, 224);
+  padding: 19px 42px 19px 41px;
+  color: rgb(112, 90, 102);
+  font-family: 'Montserrat';
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 0%;
+  border: none;
+
+}
