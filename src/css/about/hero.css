@@ -1,0 +1,52 @@
+.hero {
+  padding-top: 101px;
+  padding-bottom: 120px;
+  background-image: url(../../img/about-page/main/cakes.webp);
+  background-repeat: no-repeat;
+  background-position: 210px 271px ;
+}
+
+.hero-div {
+  padding-left: 638px;
+  padding-right: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.hero-title {
+  color: var(--text-color);
+  font-family: 'Moniqa Display';
+  font-size: 226px;
+  font-weight: 900;
+  line-height: 236px;
+  margin-bottom: 0px;
+}
+
+.hero-subtitle {
+  font-family: var(--font-family);
+  font-weight: 300;
+  font-size: 24px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--text-color);
+}
+
+.hero-div-button {
+  padding-left: 523px;
+  padding-right: 214px;
+  margin-top: 218px;
+  padding-bottom: 140px;
+}
+
+.hero-button {
+  border-radius: 10px;
+  background: rgb(245, 238, 224);
+  padding: 19px 42px 19px 41px;
+  color: rgb(112, 90, 102);
+  font-family: 'Montserrat';
+  font-size: 24px;
+  font-weight: 300;
+  letter-spacing: 0%;
+  border: none;
+}
