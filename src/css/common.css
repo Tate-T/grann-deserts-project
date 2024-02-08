@@ -1,5 +1,7 @@
+@import url(https://db.onlinewebfonts.com/c/f2ffb063c26958cc1e5f7bc0a4083922?family=Jeff);
+
 :root {
-    --formtitle-color: #F5F7F8;
+    --form-color: #F5F7F8;
     --text-color: #705A66;
     --background-color: #F5EEE0;
     --design-color: #DDD5C6;
