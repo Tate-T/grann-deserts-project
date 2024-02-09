@@ -4,9 +4,10 @@
 }
 
 .whygrann {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
+  background-image: url('../../img/about-page/why/background-vector11.png');
+  background-repeat: no-repeat;
+  background-position: center 57px;
+} 
 
 .about-grann {
   height: 104px;
