@@ -1,0 +1,46 @@
+.about-me {
+    padding-bottom: 120px;
+} 
+ 
+ .about-container {
+    display: flex;
+    gap: 30px;
+ }
+
+.about-div {
+    padding-top: 78px;
+}
+
+.about-div svg {
+    margin-bottom: 40px;
+}
+
+.about-article {
+    padding-left: 106px;
+}
+
+.about-title {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: var(--text-color);
+    margin-bottom: 8px
+}
+
+.about-text {
+    margin-bottom: 56px;
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 16px;
+    color: var(--text-color);
+}
+
+.about-text2 {
+    width: 499px;
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--text-color);
+}
+

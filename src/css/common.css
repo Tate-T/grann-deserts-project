@@ -9,7 +9,7 @@
 }
 
 .container {
-    /* outline: solid red; */
+    outline: solid red;
     width: 1240px;
     margin: 0 auto
 }
