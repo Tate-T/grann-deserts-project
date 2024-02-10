@@ -1,0 +1,66 @@
+.faq {
+  padding-bottom: 89.5px;
+  padding-top: 120px;
+}
+
+.faq-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.faq-title {
+  font-family: "Moniqa Display";
+  font-weight: 900;
+  font-size: 100px;
+  color: var(--text-color);
+  margin-bottom: 64px;
+  text-align: center;
+}
+
+.faq-list {
+  padding-left: 106px;
+}
+
+.faq-item { 
+  display: flex;
+  width: 1028px;
+  border-bottom: 1px solid var(--text-color);
+  margin-bottom: 56px;
+  justify-content: space-between;
+}
+
+.faq-item:first-child {
+  border-bottom: 1px solid var(--text-color);
+  margin-bottom: 16.5px;
+}
+
+.faq-item:last-child {
+  border-bottom: 1px solid var(--text-color);
+  margin-bottom: 0px;
+} 
+
+.faq-subtitle {
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-size: 24px;
+  text-transform: uppercase;
+  color: var(--text-color);
+  margin-bottom: 24px;
+}
+
+.faq-items {
+  margin-bottom: 56px;
+}
+
+.faq-text {
+  color: var(--text-color);
+  font-weight: 300;
+  font-size: 18px;
+  margin-top: 16px;
+}
+
+.faq-bracket {
+  cursor: pointer
+}
+

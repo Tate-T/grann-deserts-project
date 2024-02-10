@@ -10,15 +10,15 @@
 @import url('./header.css');
 @import url('./footer.css');
 @import url('./main-page/hero.css');
-@import url('./repetitive/deserts.css');
-@import url('./repetitive/bestsellers.css');
+@import url('./main-page/deserts.css');
+@import url('./main-page/bestsellers.css');
 @import url('./main-page/whygrann.css');
 @import url('./main-page/picture.css');
-@import url('./repetitive/delivery.css');
-@import url('./repetitive/about-me.css');
-@import url('./repetitive/form.css');
-@import url('./repetitive/questions.css');
-@import url('./repetitive/instagram.css');
+@import url('./main-page/delivery.css');
+@import url('./main-page/about-me.css');
+@import url('./main-page/form.css');
+@import url('./main-page/questions.css');
+@import url('./main-page/instagram.css');
 
 
 

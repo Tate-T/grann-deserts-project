@@ -1,0 +1,87 @@
+.bestsellers {
+    padding-top: 120px;
+    padding-bottom: 120px;
+ }
+
+ .bestsellers-title {
+    color: var(--text-color);
+    font-family: 'Moniqa Display';
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center; 
+    margin-bottom: 0;
+ }
+
+ .bestsellers-buttondiv {
+    margin-top: 4px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 32px;
+ }
+
+ .bestseller-button {
+    border: 1px solid var(--text-color);
+    border-radius: 22px;
+    background: var(--white-background);
+    padding: 14px 18px 13px 17px;
+
+ }
+
+ .bestseller-button:hover {
+    background: var(--background-color);
+ }
+
+.bestsellers-list {
+    display: flex;
+    gap: 32px;
+}
+
+.bestsellers-titlediv {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    height: 58px;
+}
+
+.bestsellers-titlediv img {
+    height: 25px;
+    cursor: pointer;
+}
+
+.bestsellers-titlediv h3 {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 24px;
+    color: var(--text-color);
+}
+
+.bestseller-item p {
+    font-family: Montserrat;
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--text-color);
+    margin-top: 10px;
+}
+
+.bestseller-btn > button {
+    padding-left: 80px;
+    padding-right: 82px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    border: none;
+    color: var(--text-color);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 29px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    background: var(--background-color);
+}
+
+.bestseller-btn {
+    border: none;
+    margin-top: 88px;
+    text-align: center;
+}
