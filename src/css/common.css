@@ -9,12 +9,12 @@
 }
 
 .container {
-    outline: solid red;
+    /* outline: solid red; */
     width: 1240px;
     margin: 0 auto
 }
 
-section {
+/* section {
     outline: solid green
-}
+} */
 
