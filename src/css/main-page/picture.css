@@ -1,6 +1,7 @@
 .picture {
     background-image: url('../../img/main-page/5picture/main.webp');
+    background-color: var(--form-color);
     background-position: center;
     height: 623px;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
 }

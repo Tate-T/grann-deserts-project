@@ -1,6 +1,7 @@
 .faq {
   padding-bottom: 89.5px;
   padding-top: 120px;
+  background-color: var(--form-color);
 }
 
 .faq-container {

@@ -1,6 +1,7 @@
 .hero {
-  padding-top: 101px;
+  padding-top: 101.5px;
   padding-bottom: 120px;
+  background-color: var(--form-color);
 }
 
 .container-hero {
@@ -10,8 +11,8 @@
 }
 
 .hero-div {
-  padding-left: 638px;
-  padding-right: 0;
+  padding-left: 538px;
+  padding-right: 210px;
   display: flex;
   flex-direction: column;
   align-items: flex-end;

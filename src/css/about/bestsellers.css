@@ -1,6 +1,7 @@
 .bestsellers {
     padding-top: 120px;
     padding-bottom: 120px;
+    background-color: var(--form-color);
  }
 
  .bestsellers-title {

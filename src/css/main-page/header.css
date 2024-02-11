@@ -2,9 +2,7 @@
     padding-top: 24px;
     padding-bottom: 24px;
     border-bottom: solid 1px var(--white-background);
-    background-color: var(--form-color);
-    max-width: 1440px;
-    margin: 0 auto;
+    background-color: var(--background-color);
 }
 
 .nav {

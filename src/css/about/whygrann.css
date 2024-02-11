@@ -7,6 +7,7 @@
   background-image: url('../../img/about-page/why/background-vector11.png');
   background-repeat: no-repeat;
   background-position: center 57px;
+  background-color: var(--form-color);
 } 
 
 .about-grann {
@@ -25,7 +26,7 @@
   height: 631.34px;
   display: block;
   margin-right: 136px;
-  background-image: url('../../img/about-page/why/grannwithlove.webp');
+  background-image: url('../../img/about-page/why/whygrann-cake.png');
   background-repeat: no-repeat;
 }
 .grann-description {

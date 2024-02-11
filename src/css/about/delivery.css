@@ -3,7 +3,8 @@
   padding-top: 120px;
   background-image: url('../../img/about-page/delivery-and-payment/background-vector12.png');
   background-position: 50% -190px;
-  background-repeat: no-repeat
+  background-repeat: no-repeat;
+  background-color: var(--form-color);
 }
 
 .payment {
