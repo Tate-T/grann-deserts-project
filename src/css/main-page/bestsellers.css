@@ -1,8 +1,8 @@
 .bestsellers {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: var(--form-color);
-}
+    padding-top: 120px;
+    padding-bottom: 120px;
+ }
+
 
 .bestsellers-title {
   color: var(--text-color);
@@ -10,7 +10,6 @@
   font-size: 100px;
   font-weight: 900;
   text-align: center;
-  margin-bottom: 0;
 }
 
 .bestseller-buttondiv {
