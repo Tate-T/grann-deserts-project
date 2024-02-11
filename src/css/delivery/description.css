@@ -1,0 +1,35 @@
+.description {
+  background-color: var(--form-color);
+  padding-bottom: 64px;
+}
+.button-div {
+  display: flex;
+  gap: 151px;
+}
+.button-description {
+  color: var(--text-color);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-bottom: 20px;
+  border: none;
+  background-color: var(--form-color);
+}
+
+.description-text {
+  width: 499px;
+  margin-top: 40px;
+  margin-right: 106px;
+}
+.text {
+  color: var(--text-color);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 130%;
+  letter-spacing: 0%;
+  text-align: left;
+}
