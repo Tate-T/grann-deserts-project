@@ -1,0 +1,45 @@
+.you-can-try {
+  padding-bottom: 120px;
+  background-color: var(--form-color);
+}
+
+.text-recommendation {
+  color: rgb(112, 90, 102);
+  font-family: Montserrat;
+  font-size: 42px;
+  font-weight: 300;
+  line-height: 51px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 40px;
+}
+.cake-recommendation {
+  display: flex;
+  gap: 30px;
+}
+.img-recommendation {
+  display: block;
+  width: 393px;
+  height: 393px;
+  margin-bottom: 20px;
+}
+.cake-name {
+  color: var(--text-color);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.cake-price {
+  color: var(--text-color);
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+}
