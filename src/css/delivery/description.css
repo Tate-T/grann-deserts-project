@@ -2,11 +2,12 @@
   background-color: var(--form-color);
   padding-bottom: 64px;
 }
-.button-div {
+.link-div {
   display: flex;
   gap: 151px;
 }
-.button-description {
+
+.link-description {
   color: var(--text-color);
   font-family: Montserrat;
   font-size: 18px;
@@ -17,6 +18,9 @@
   margin-bottom: 20px;
   border: none;
   background-color: var(--form-color);
+}
+.link-description:hover {
+    color: black;
 }
 
 .description-text {
