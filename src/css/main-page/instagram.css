@@ -1,0 +1,36 @@
+.instagram-title{
+    color: var(--text-color);
+    font-family: "Moniqa Display";
+font-size: 100px;
+font-weight: 900;
+line-height: 104px;;
+text-align: center;
+}
+.instagram-list{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.instagram-item{
+position: static;
+width: 393px;
+height: 393px;
+}
+.instagram-button{
+    background-color: var(--background-color);
+    width: 604px;
+    height: 67px;
+    color: rgb(112, 90, 102);
+font-family: "Montserrat";
+font-size: 24px;
+font-weight: 300;
+line-height: 29px;;
+text-align: center;
+text-transform: uppercase;
+display: block;
+margin: 0 auto;
+margin-top: 62px;
+margin-bottom: 120px;
+border: none;
+border-radius: 10px;
+    }
