@@ -1,3 +1,8 @@
+.instagram-section {
+    background-color: var(--form-color);
+    padding-bottom: 120px;
+}
+
 .instagram-title{
     color: var(--text-color);
     font-family: "Moniqa Display";
@@ -30,7 +35,6 @@ text-transform: uppercase;
 display: block;
 margin: 0 auto;
 margin-top: 62px;
-margin-bottom: 120px;
 border: none;
 border-radius: 10px;
     }
