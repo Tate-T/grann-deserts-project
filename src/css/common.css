@@ -8,6 +8,10 @@
     --black-color: #252525
 }
 
+body {
+    background-color: var(--form-color);
+}
+
 .container {
     /* outline: solid red; */
     width: 1240px;
