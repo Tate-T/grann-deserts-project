@@ -1,9 +1,13 @@
+.hero-section{
+    padding-bottom: 52.5px;
+}
 .hero-list{
     display: flex;
+    
 }
 .hero-item{
     box-sizing: border-box;
-border: 1px solid rgb(112, 90, 102);
+border: 1px solid var(--text-color);
 border-radius: 100px;
 display: flex;
 flex-direction: row;
@@ -12,7 +16,7 @@ align-items: center;
 padding: 10px 30px 10px 30px;
 flex: none;
 margin: 0px 32px;
-color: rgb(112, 90, 102);
+color: var(--text-color);
 font-family: "Montserrat";
 font-size: 18px;
 font-weight: 300;
@@ -31,7 +35,7 @@ margin-bottom: 23px;
 }
 .hero-item:hover{
         
-background: rgb(112, 90, 102);
+background: var(--text-color);
 color: rgb(245, 247, 248);
 font-family: "Montserrat";
 font-size: 18px;
@@ -41,10 +45,11 @@ letter-spacing: 0%;
 text-align: center;
 }
 .hero-title{
-color: rgb(112, 90, 102);
-font-family: "Moniqa";
+color: var(--text-color);
+font-family: "Moniqa Display";
 font-size: 100px;
 font-weight: 900;
 line-height: 104px;
 text-align: center;
 }
+

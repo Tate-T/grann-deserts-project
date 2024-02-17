@@ -1,3 +1,6 @@
+.gallery-section{
+    padding-bottom: 120px;
+}
 .gallery-list{
     display: flex;
     flex-wrap: wrap;
@@ -16,7 +19,7 @@ align-items: flex-start;
 
 flex: none;
 margin: 10px 0px;
-color: rgb(112, 90, 102);
+color: var(--text-color);
 font-size: 24px;
 font-weight: 300;
 line-height: 29px;
@@ -24,7 +27,7 @@ letter-spacing: 0%;
 text-align: left;
 }
 .gallery-desc{
-    color: rgb(112, 90, 102);
+    color: var(--text-color);
 font-family: "Montserrat";
 font-size: 18px;
 font-weight: 300;
@@ -32,10 +35,30 @@ line-height: 22px;
 
 }
 .nav-numbers{
-    color: rgb(112, 90, 102);
+    color: var(--text-color);
 font-family: "Montserrat";
 font-size: 24px;
 font-weight: 300;
 line-height: 29px;
 text-align: center;
+margin-left: 32px;
+margin-right: 32px;
+align-items: center ;
+padding-top: 3px;
+padding-bottom: 3px;
+
+}
+.nav-box{
+    display:flex ;
+    margin-top: 59.5px;
+    justify-content: center;
+}
+#nav-arrow{
+    background-color: var(--text-color);
+width: 35px;
+height: 35px;
+border-radius: 50%;
+border: none;
+align-items: center;
+padding: 5px 7px 17px 8px;
 }
