@@ -1,0 +1,68 @@
+.whygrann-section{
+    background-image: url(../../img/main-page/whygrann/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.whygrann-title{
+color: rgb(112, 90, 102);
+font-family: "Moniqa";
+font-size: 100px;
+font-weight: 900;
+line-height: 104px;
+text-align: center;
+margin: 0 auto;
+}
+.whygrann-subtitle{
+    width: 288px;
+    height: 58px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 24px 0px;
+color: rgb(112, 90, 102);
+font-family: "Montserrat";
+font-size: 24px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+.whygrann-desc{
+    
+    width: 287px;
+    height: 66px;
+display: flex;
+flex-direction: column;
+padding: 0px;
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 24px 0px;
+color: rgb(112, 90, 102);
+font-family: "Montserrat";
+font-size: 18px;
+font-weight: 300;
+line-height: 22px;
+text-align: center;
+}
+.whygrann-item:nth-child(1){
+margin-bottom:176px ;
+margin-right: 387px;
+padding-top: 100px;
+
+}
+.whygrann-item:nth-child(2){
+    padding-top: ;
+    
+}
+.whygrann-item:nth-child(3){
+
+}
