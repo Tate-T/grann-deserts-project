@@ -28,12 +28,14 @@
 
 .info-item:nth-child(2) {
   padding-top: 20.01px;
-  padding-bottom: 20px
+  padding-bottom: 20px;
+  border-right: 1px solid rgb(221, 213, 198);
+  border-left: 1px solid rgb(221, 213, 198);
 }
 
 .info-item:nth-child(3) {
   padding-top: 9.98px;
-  padding-bottom: 10px
+  padding-bottom: 10px;
 }
 
 
