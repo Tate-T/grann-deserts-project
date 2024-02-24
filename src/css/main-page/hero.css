@@ -27,10 +27,8 @@
 }
 
 .hero-article {
-    font-family: Montserrat;
     font-size: 16px;
     font-weight: 300;
-    color: var(--text-color);
 }
 
 .hero-div {

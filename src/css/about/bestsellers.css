@@ -50,17 +50,13 @@
 }
 
 .bestsellers-titlediv h3 {
-    font-family: Montserrat;
     font-weight: 300;
     font-size: 24px;
-    color: var(--text-color);
 }
 
 .bestseller-item p {
-    font-family: Montserrat;
     font-weight: 300;
     font-size: 18px;
-    color: var(--text-color);
     margin-top: 10px;
 }
 
@@ -70,8 +66,6 @@
     padding-top: 19px;
     padding-bottom: 19px;
     border: none;
-    color: var(--text-color);
-    font-family: Montserrat;
     font-size: 24px;
     font-weight: 300;
     line-height: 29px;

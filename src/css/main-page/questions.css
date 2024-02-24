@@ -13,7 +13,6 @@
   font-family: "Moniqa Display";
   font-weight: 900;
   font-size: 100px;
-  color: var(--text-color);
   margin-bottom: 64px;
   text-align: center;
 }
@@ -41,11 +40,9 @@
 } 
 
 .faq-subtitle {
-  font-family: "Montserrat";
   font-weight: 300;
   font-size: 24px;
   text-transform: uppercase;
-  color: var(--text-color);
   margin-bottom: 24px;
 }
 
@@ -54,7 +51,6 @@
 }
 
 .faq-text {
-  color: var(--text-color);
   font-weight: 300;
   font-size: 18px;
   margin-top: 16px;

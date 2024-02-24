@@ -19,19 +19,16 @@
 
 .footer-adress {
     color: var(--background-color);
-    font-family: Montserrat;
     font-size: 18px;
 }
 
 .footer-email {
     color: var(--background-color);
-    font-family: Montserrat;
     font-size: 18px;
 }
 
 .footer-tel {
     color: var(--background-color);
-    font-family: Montserrat;
     font-size: 18px;
 }
 
@@ -59,13 +56,11 @@
 
 .footer-article {
     color: var(--background-color);
-    font-family: Montserrat;
     font-size: 18px;
     margin-bottom: 24px;
 }
 
 .footer-text {
     color: var(--background-color);
-    font-family: Montserrat;
     font-size: 18px;
 }

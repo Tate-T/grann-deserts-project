@@ -37,8 +37,6 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 24px;
   font-weight: 300;
   line-height: 29px;
@@ -48,8 +46,6 @@
   flex-wrap: nowrap;
 }
 .list-description {
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 16px;
   font-weight: 300;
   line-height: 20px;
@@ -59,8 +55,6 @@
   flex-wrap: nowrap;
 }
 .list-description1 {
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 16px;
   font-weight: 300;
   line-height: 20px;

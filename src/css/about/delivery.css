@@ -58,8 +58,6 @@
 }
 
 .info-title {
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 24px;
   font-weight: 300;
   line-height: 29px;
@@ -67,8 +65,6 @@
 }
 
 .info-text {
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 18px;
   font-weight: 300;
   line-height: 22px;

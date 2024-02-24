@@ -27,12 +27,10 @@
 }
 
 .hero-subtitle {
-  font-family: var(--font-family);
   font-weight: 300;
   font-size: 24px;
   letter-spacing: 0.02em;
   text-transform: uppercase;
-  color: var(--text-color);
 }
 
 .hero-div-button {
@@ -46,10 +44,8 @@
   border-radius: 10px;
   background: rgb(245, 238, 224);
   padding: 19px 42px 19px 41px;
-  color: rgb(112, 90, 102);
   font-family: 'Montserrat';
   font-size: 24px;
   font-weight: 300;
-  letter-spacing: 0%;
   border: none;
 }
