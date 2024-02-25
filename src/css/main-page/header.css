@@ -24,8 +24,6 @@
 }
 
 .header-link {
-    color: var(--text-color);
-    font-family: Montserrat;
     font-size: 16px;
     text-transform: uppercase;
 }

@@ -3,8 +3,6 @@
 }
 
 .text-recommendation {
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 42px;
   font-weight: 300;
   line-height: 51px;
@@ -21,8 +19,6 @@
   height: 393px;
 }
 .cake-name {
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 24px;
   font-weight: 300;
   line-height: 29px;
@@ -30,8 +26,6 @@
 }
 
 .cake-price {
-  color: var(--text-color);
-  font-family: Montserrat;
   font-size: 18px;
   font-weight: 300;
   line-height: 22px;

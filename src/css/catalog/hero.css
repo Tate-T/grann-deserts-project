@@ -27,14 +27,11 @@
 }
 .hero-item button:hover {
   background-color: var(--text-color);
-  color: var(--form-color);
-  font-family: 'Montserrat';
   font-size: 18px;
   font-weight: 300;
   line-height: 22px;
 }
 .hero-title {
-  color: var(--text-color);
   font-family: 'Moniqa Display';
   font-size: 100px;
   font-weight: 900;

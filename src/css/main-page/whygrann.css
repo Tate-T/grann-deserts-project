@@ -18,16 +18,12 @@
   text-align: center;
 }
 .whygrann-subtitle {
-  color: var(--text-color);
-  font-family: 'Montserrat';
   font-size: 24px;
   font-weight: 300;
   text-align: center;
 }
 .whygrann-desc {
   margin-top: 24px;
-  color: var(--text-color);
-  font-family: 'Montserrat';
   font-size: 18px;
   font-weight: 300;
   text-align: center;

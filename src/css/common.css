@@ -10,7 +10,10 @@
 
 body {
     background-color: var(--form-color);
+    font-family: Montserrat;
+    color: var(--text-color);
 }
+
 
 .container {
     /* outline: solid red; */

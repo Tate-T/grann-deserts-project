@@ -14,10 +14,8 @@
 }
 
 .hero-text h2 {
-    font-family: Montserrat;
     font-weight: 300;
     font-size: 42px;
-    color: var(--text-color);
     margin-bottom: 64px;
 }
 
