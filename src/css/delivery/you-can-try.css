@@ -33,10 +33,11 @@
   margin-top: 10px;
 }
 .recommendation-div {
+    /* outline: solid red; */
+    margin-bottom: 10px;
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
-    height: 58px;
 }
 .recommendation-img-div{
     height: 25px;
