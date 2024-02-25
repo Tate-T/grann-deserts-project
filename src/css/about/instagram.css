@@ -1,37 +1,38 @@
 .instagram-section {
-    padding-bottom: 120px;
+  padding-bottom: 120px;
 }
 
-.instagram-title{
-    color: var(--text-color);
-    font-family: "Moniqa Display";
-font-size: 100px;
-font-weight: 900;
-line-height: 104px;;
-text-align: center;
+.instagram-title {
+  color: var(--text-color);
+  font-family: 'Moniqa Display';
+  font-size: 100px;
+  font-weight: 900;
+  line-height: 104px;
+  text-align: center;
+  margin-bottom: 64px;
 }
-.instagram-list{
-    display: flex;
-    gap: 30px;
-    flex-wrap: wrap;
+.instagram-list {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
 }
-.instagram-item{
-position: static;
-width: 393px;
-height: 393px;
+.instagram-item {
+  position: static;
+  width: 393px;
+  height: 393px;
 }
-.instagram-button{
-    background-color: var(--background-color);
-    width: 604px;
-    height: 67px;
-font-size: 24px;
-font-weight: 300;
-line-height: 29px;;
-text-align: center;
-text-transform: uppercase;
-display: block;
-margin: 0 auto;
-margin-top: 62px;
-border: none;
-border-radius: 10px;
-    }
+.instagram-button {
+  background-color: var(--background-color);
+  width: 604px;
+  height: 67px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 29px;
+  text-align: center;
+  text-transform: uppercase;
+  display: block;
+  margin: 0 auto;
+  margin-top: 62px;
+  border: none;
+  border-radius: 10px;
+}
