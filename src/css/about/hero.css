@@ -1,6 +1,6 @@
 .hero {
   padding-top: 101.5px;
-  padding-bottom: 120px;
+  padding-bottom: 21px;;
 }
 
 .container-hero {
@@ -45,4 +45,12 @@
   display: block;
   margin: 0 auto;
   width: 394px;
+}
+
+.hero-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20.6px;
+  align-items: flex-end;
+  margin-top: 10px;
 }
