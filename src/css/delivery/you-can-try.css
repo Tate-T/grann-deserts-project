@@ -32,17 +32,17 @@
   text-align: left;
   margin-top: 10px;
 }
+
 .recommendation-div {
-    /* outline: solid red; */
-    margin-bottom: 10px;
-    margin-top: 20px;
-    display: flex;
-    justify-content: space-between;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
 }
-.recommendation-img-div{
-    height: 25px;
-    cursor: pointer;
+.recommendation-img-div {
+  height: 25px;
+  cursor: pointer;
 }
-.cake-item{
-    padding-bottom: 29px;
+.cake-item {
+  padding-bottom: 29px;
 }
