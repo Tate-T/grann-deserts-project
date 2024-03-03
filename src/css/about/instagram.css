@@ -21,18 +21,61 @@
   width: 393px;
   height: 393px;
 }
-.instagram-button {
+.instagram-box{
+  width: 780px;
+  height: 113px;
+  display: block;
+  position: relative;
+  margin-top: 16px;
+  margin-bottom: 120px;
+  padding-left: 192px;
+  margin-right: 267px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+.vector-1{
+ 
+
+position: absolute;
+width: 76px;
+height: 90px;
+left: 0;
+top: 0;
+
+}
+.vector-2{
+
+position: absolute;
+width: 26px;
+height: 24px;
+left: 751px;
+top: 12px;
+
+}
+.vector-3{
+  /* Vector 35 */
+position: absolute;
+width: 23px;
+height: 9px;
+left: 757px;
+top: 43px;
+}
+.instagram-button{
   background-color: var(--background-color);
   width: 604px;
   height: 67px;
   font-size: 24px;
   font-weight: 300;
-  line-height: 29px;
+  line-height: 29px;;
   text-align: center;
   text-transform: uppercase;
   display: block;
-  margin: 0 auto;
-  margin-top: 62px;
+ left: 126px;
   border: none;
   border-radius: 10px;
+  position: absolute;
+  top: 46px;
 }
